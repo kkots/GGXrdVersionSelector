@@ -21,7 +21,7 @@ This mod works only with PC version 2211 of the game (seen on the bottom right o
 
 ## How to use
 
-1. Go to Releases section on the right: <https://https://github.com/kkots/GGXrdVersionSelector/releases/latest>
+1. Go to Releases section on the right: <https://github.com/kkots/GGXrdVersionSelector/releases/latest>
 2. Download the top .zip file from the latest release.
 3. Extract that .zip file.
 4. Launch Guilty Gear Xrd Rev2.
