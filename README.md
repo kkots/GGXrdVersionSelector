@@ -26,7 +26,7 @@ This mod works only with PC version 2211 of the game (seen on the bottom right o
 3. Extract that .zip file.
 4. Launch Guilty Gear Xrd Rev2.
 4. Launch the `GGXrdVersionSelector.exe`.
-5. The field in the mod's window displays the current patch version used by the game. You may change it using that field. Make sure your friend also uses this mod and has selected the same version.
+5. The field in the mod's window displays the current patch version used by the game. You may change it using that field. If you're going to play multiplayer, make sure your friend also uses this mod and has selected the same version.
 6. Restart the current match if it's currently ongoing in order for changes to fully take effect.
 7. When you are done, you can reset the patch version back by selecting `Latest Rev1/2` which will let you play online with anyone without desyncs like normal.
 
